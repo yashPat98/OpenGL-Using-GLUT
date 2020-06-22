@@ -6,6 +6,13 @@ This Repository Contains Programs in OpenGL using GLUT
 
 Programs in this Repository are built in Linux Environment
 
+## How to Run Executable
+
+Go to Properties->Permissions->Execute
+Check 'Allow executing file as program'
+close properties
+open exe
+
 ## Built With
 
 * OpenGL 
