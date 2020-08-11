@@ -1,6 +1,6 @@
 # OpenGL Programs
 
-This Repository Contains Programs in OpenGL using GLUT
+This Repository Contains Programs in OpenGL using GLUT in Linux Operating Systems
 
 ## Prerequisites
 
